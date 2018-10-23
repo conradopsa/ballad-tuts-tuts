@@ -1,0 +1,10 @@
+C:\Users\Derp\Desktop\Crp\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Derp\Desktop\Crp\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Derp\Desktop\Crp\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Derp\Desktop\Crp\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Teste.exe
+C:\Users\Derp\Desktop\Crp\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Teste.pdb
+C:\Users\Derp\Desktop\Crp\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Derp\Desktop\Crp\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Teste.exe
+C:\Users\Derp\Desktop\Crp\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Teste.pdb
+D:\Minhas Produções\C#\Zoeira\Baladinha TutsTuts\WindowsFormsApplication4\obj\Debug\Teste.exe
+D:\Minhas Produções\C#\Zoeira\Baladinha TutsTuts\WindowsFormsApplication4\obj\Debug\Teste.pdb
